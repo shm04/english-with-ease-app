@@ -90,8 +90,8 @@ I am available to perform a **Technical Walkthrough** via screen-share during an
 👤 **Sebastian Hernandez**
 * **Role:** Lead Architect / Full-Stack Engineer
 * **Agency:** [Elevate Agency](https://your-elevate-link.com)
-* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/your-profile)
-* **GitHub:** [@your-github](https://github.com/your-github)
+* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/sebastian-hernandez-munoz/)
+* **GitHub:** [@your-github](https://github.com/shm04)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
