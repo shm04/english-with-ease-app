@@ -26,7 +26,7 @@ Leer en [Inglés](./README.md)
 ---
 
 ## 📖 Acerca del Proyecto y Filosofía Central <a name="acerca-del-proyecto"></a>
-EWE Academy es una plataforma EdTech moderna y escalable, diseñada para automatizar por completo el ciclo de vida del aprendizaje de idiomas. Construida como un **Monorepo** integral, alberga una Landing Page de marketing altamente optimizada, un Motor de Prueba de Nivel dinámico y un Sistema de Gestión de Aprendizaje (LMS) a medida con estricta trazabilidad de datos.
+EWE Academy es una plataforma EdTech moderna y escalable, diseñada para automatizar por completo el ciclo de vida del aprendizaje de idiomas. Construida como un **Monorepo** integral, contiene un Sistema de Gestión de Aprendizaje (LMS) a medida con estricta trazabilidad de datos.
 
 La plataforma elimina la fricción administrativa (como la sincronización manual de grabaciones en Google Drive) mientras proporciona una experiencia premium y optimizada para la conversión de prospectos.
 
@@ -71,7 +71,7 @@ La arquitectura impone estrictamente esta progresión jerárquica:
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-## 🧗 Profundidad Técnica: Motor de Sincronización y Auto-Recuperación <a name="profundidad-tecnica"></a>
+## 🧗 Profundidad Técnica: Motor de Sincronización y Autorrecuperación <a name="profundidad-tecnica"></a>
 Junto con la compleja lógica de Gating 40/30/30, el desafío backend más significativo fue el **Motor de Sincronización de Google Drive**. 
 
 Manejar los límites de tasa de la API de Google mientras se movían archivos de video pesados requirió construir una **Infraestructura de Auto-Recuperación (Auto-Healing)**. El sistema utiliza un manejo de errores personalizado para detectar errores de "Archivo no encontrado" si un directorio es renombrado manualmente, activando una reconstrucción recursiva del directorio para asegurar que los enlaces nunca se rompan.
@@ -81,7 +81,7 @@ Manejar los límites de tasa de la API de Google mientras se movían archivos de
 ## 🔒 Política de Acceso al Código <a name="acceso-al-codigo"></a>
 El código fuente de este proyecto es **Propiedad Privada**. No está abierto para clonación pública ni contribuciones.
 
-Estoy disponible para realizar un **Recorrido Técnico (Technical Walkthrough)** a través de pantalla compartida durante una entrevista. En esta sesión, puedo demostrar la estructura del Monorepo, la lógica de mapeo "Motor vs. Combustible" y la implementación del payload de analíticas JSONB.
+Estoy disponible para realizar un **Recorrido Técnico (Technical Walkthrough)** a través de una pantalla compartida durante una entrevista. En esta sesión, puedo demostrar la estructura del Monorepo, la lógica de mapeo "Motor vs. Combustible" y la implementación del payload de analíticas JSONB.
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
@@ -90,8 +90,8 @@ Estoy disponible para realizar un **Recorrido Técnico (Technical Walkthrough)**
 👤 **Sebastian Hernandez**
 * **Rol:** Lead Architect / Full-Stack Engineer
 * **Agencia:** [Elevate Agency](https://your-elevate-link.com)
-* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/your-profile)
-* **GitHub:** [@your-github](https://github.com/your-github)
+* **LinkedIn:** [Sebastian Hernandez](https://www.linkedin.com/in/sebastian-hernandez-munoz/)
+* **GitHub:** [@your-github](https://github.com/shm04)
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
