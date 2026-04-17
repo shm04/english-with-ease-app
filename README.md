@@ -1,8 +1,13 @@
-# English With Ease LMS
+# English With Ease (EWE) — Enterprise LMS
 
-> **Category:** EdTech SaaS
+> **Category:** Private EdTech SaaS
 > **Client:** EWE Academy  
 > **Project Status:** In Production (v1.2)
+
+---
+
+## 🌎 Languages
+Read this in [Spanish](./README-es.md)
 
 ---
 
